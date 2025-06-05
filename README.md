@@ -59,6 +59,9 @@ This repository contains the redesigned interface and feature improvements for t
 View the redesign on Figma:  
 [RU Design on Figma](https://www.figma.com/design/xb0TcNwofTNsj7nqDHe2UY/RU-Design?t=Dv2Zx4DW02uHLrZM-0)
 
+Link:
+https://www.figma.com/proto/xb0TcNwofTNsj7nqDHe2UY/RU-Design?t=Jbi4cc4WhdKXjwcM-1&scaling=contain&content-scaling=fixed&page-id=0%3A1&node-id=12-6&starting-point-node-id=12%3A6
+
 ---
 
 ## License
